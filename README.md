@@ -1,2 +1,13 @@
 # Human-Pose-Estimation
-This repository is for people who want to do Pose detection for objects. 
+
+### ➡️ The repository consists of Code for the Pose Estimation
+
+### ⚫️ Visual representation 
+
+❗️  Input Pose Estimation Image
+
+![]()
+
+❗️  Output Pose Estimation Image
+
+![]()
